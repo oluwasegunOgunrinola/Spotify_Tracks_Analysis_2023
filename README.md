@@ -4,7 +4,7 @@ This project analyses the amount of streams by various artist's tracks on Spotif
 AIM OF THIS PROJECT:  To analyse the amount of streams by various artist's tracks on Spotify's playlist influenced by the playlist's curator and the activity of their listeners till date 2023. 
 
 
-![](./Spotify_analysis_snip.JPEG)
+![](./Spotify_analysis_snip.JPG)
 
 INSIGHTS
 
